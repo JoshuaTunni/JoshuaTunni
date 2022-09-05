@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Joshua Tunnicliffe, I live in the UK
+- 👋 Hi, I’m Joshua, I live in the UK
 - 👀 I Love creating websites and small games.
 - 🌱 I’m currently learning front end web development 
 - 📫 You can contact me at - joshuatunni@hotmail.com
